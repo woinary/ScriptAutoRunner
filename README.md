@@ -10,3 +10,11 @@ Chrome拡張 [ScriptAutoRunner](https://chrome.google.com/webstore/detail/script
 * スクリプトの対象サイトのアップデートによって、動かなくなったり、異常動作する可能性があります。
 
 以上に同意できない場合は、使用しないでください。
+
+## 内容
+
+### [Quora](https://github.com/woinary/ScriptAutoRunner/tree/main/Quora)
+Quora用のスクリプトを置いてあります。
+
+* [Quora_question_log.js](https://github.com/woinary/ScriptAutoRunner/blob/main/Quora/Quora_question_log.md)
+  * Quoraの質問画面に質問ログを表示するボタンを追加します。
